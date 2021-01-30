@@ -36,7 +36,7 @@ class App extends Component{
     return(
       <div className="App">
         <h1>
-          Hi React
+          Hi Reacts
         </h1>
         <button onClick={this.switchOnButtonClickFunction}>Switch Names</button>
 
